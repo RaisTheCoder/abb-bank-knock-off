@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Tam Visa",
+    "title": "Qarşılayın, yeni rəqəmsal Tam Visa!",
+    "description": "Dövriyyə edin, real hədiyyələr qazanın",
+    "image": "https://cdn.abb-bank.az/sldier_1_2tam_visa_6fe89cc41c.png",
+    "button": "Sifariş edin"
+  },
+  {
+    "id": 2,
+    "name": "Depozit",
+    "title": "Qış təklifi” depozit kampaniyası başladı!",
+    "description": "Vəsaitinizi daha sərfəli şərtlərlə yerləşdirin!",
+    "image": "https://cdn.abb-bank.az/image_f1bf03fc66.png",
+    "button": "İndi hesab açın"
+  },
+  {
+    "id": 3,
+    "name": "ABB AI Assistant",
+    "title": "Səsli Süni İntellekt köməkçiniz",
+    "description": "Artıq xidmətinizdədir!",
+    "image": "https://cdn.abb-bank.az/ai_1_738c7d167c.png",
+    "button": "ABB Mobile"
+  },
+  {
+    "id": 4,
+    "name": "Nağd Kredit",
+    "title": "10.9%-dən sərfəli nağd kredit",
+    "description": "50 000 AZN-dək nağd krediti filiala gəlmədən, olduğunuz yerdən əldə edin!",
+    "image": "https://cdn.abb-bank.az/komissiyasiz_m_daxil_f69d5973e9.png",
+    "button": "İndi sifariş edin"
+  },
+  {
+    "id": 5,
+    "name": "Biznes Krediti",
+    "title": "VÖEN ilə kredit imkanı",
+    "description": "Fərdi sahibkarlara özəl 100 000 AZN-dək tam onlayn kredit əldə edin!",
+    "image": "https://cdn.abb-bank.az/image_12_5c134b7e21.png",
+    "button": "Müraciət edin"
+  },
+  {
+    "id": 6,
+    "name": "7-17 Yaş üçün",
+    "title": "Alpha Card",
+    "description": "İndi həm rəqəmsal, həm fiziki!",
+    "image": "https://cdn.abb-bank.az/sldier2_89d5a32c73.png",
+    "button": "Onlayn sifariş edin"
+  },
+  {
+    "id": 7,
+    "name": "Biznes Krediti",
+    "title": "Sahibkar krediti",
+    "description": "500 000 AZN-dək “Sahibkar” kreditini 1 iş günü ərzində əldə edin. ",
+    "image": "https://cdn.abb-bank.az/image_ea1a258d27.png",
+    "button": "Müraciət edin"
+  },
+  {
+    "id": 8,
+    "name": "Hesab",
+    "title": "DigiHesab Max",
+    "description": "Hesabınızdakı qalıq məbləğə illik 6% gəlir əldə edin.",
+    "image": "https://cdn.abb-bank.az/Deposit_purple0000_2_1_a7e73c0a10_243da87f0f.png",
+    "button": "DigiHesab Max"
+  }
+]

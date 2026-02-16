@@ -10,9 +10,8 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  
-  text-decoration: unset;
-  color: unset;
+
+  text-decoration: unset; 
   font-family: "Inter", sans-serif;
 }
 
@@ -37,6 +36,11 @@ button {
   background-color: var(--primary);
   color: white;
   fill: white;
+}
+
+.grad-blue {
+  background-image: linear-gradient(90deg, #5182e3, #9fd8ff);
+  color: transparent;
 }
 
 /* Container */

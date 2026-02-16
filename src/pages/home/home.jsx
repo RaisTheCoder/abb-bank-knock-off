@@ -16,7 +16,7 @@ const home = () => {
 
           <div className="scroll-wrapper">
             <Link
-              className="card"
+              className="card bg-white"
               to={"https://abb-bank.az/ferdi/emanetler/digideposit"}
             >
               <div className="container relative">
@@ -31,7 +31,7 @@ const home = () => {
             </Link>
 
             <Link
-              className="card"
+              className="card bg-white"
               to={"https://abb-bank.az/biznes/mikro-biznes/gundelik-bankciliq"}
             >
               <div className="container relative">
@@ -45,7 +45,10 @@ const home = () => {
               </div>
             </Link>
 
-            <Link className="card" to={"https://kredit.abb-bank.az/cash-loan"}>
+            <Link
+              className="card bg-white"
+              to={"https://kredit.abb-bank.az/cash-loan"}
+            >
               <div className="container relative">
                 <div className="text-content">
                   <h2>DigiDeposit</h2>
@@ -59,7 +62,10 @@ const home = () => {
               </div>
             </Link>
 
-            <Link className="card" to={"https://abb-bank.az/abb-mobile"}>
+            <Link
+              className="card bg-white"
+              to={"https://abb-bank.az/abb-mobile"}
+            >
               <div className="container relative">
                 <div className="text-content">
                   <h2>DigiDeposit</h2>
@@ -73,7 +79,7 @@ const home = () => {
           </div>
         </div>
 
-        <section className="shortcuts flex">
+        <section className="shortcuts flex flex-col justify-center items-center gap-[20px]">
           <h1>Sürətli keçidlər</h1>
 
           <div className="body container">

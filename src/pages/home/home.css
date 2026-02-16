@@ -3,7 +3,6 @@
   width: 100%;
   padding-top: 60px;
   padding-bottom: 60px;
-  display: flex;
   background-color: #f0f0f0;
 }
 
@@ -22,8 +21,7 @@
 }
 
 .card {
-  background-color: white;
-  border: 1px solid #f8f8f0;
+  border: 1px solid #f8f8f030;
   border-radius: 11px;
   padding: 20px;
   height: 300px;
@@ -80,14 +78,6 @@
 }
 
 /* Shortcuts */
-.shortcuts {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  gap: 20px;
-}
-
 .shortcuts .body {
   display: grid !important;
   grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));

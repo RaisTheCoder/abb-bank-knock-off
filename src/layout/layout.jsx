@@ -4,6 +4,7 @@ import "./layout.css";
 
 // Components
 import Header from "../components/header/header";
+import Footer from "../components/footer/footer";
 
 const layout = () => {
   return (
@@ -12,7 +13,7 @@ const layout = () => {
       <main className="flex flex-col">
         <Outlet />
       </main>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 };

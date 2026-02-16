@@ -36,7 +36,7 @@ const header = () => {
               to={"https://abb-bank.az/investorlarla-elaqe"}
               className="link"
             >
-              İnvestorla əlaqə
+              İnvestorlarla əlaqə
             </Link>
           </li>
         </ul>

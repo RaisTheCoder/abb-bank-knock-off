@@ -1,0 +1,32 @@
+footer .left {
+  padding: 40px 0 40px 0;
+}
+
+footer .main {
+  background-color: #252930;
+}
+
+footer .main .body {
+  padding: 40px 0 40px 0;
+}
+
+.stars {
+  padding: 11px;
+  border-radius: 6px;
+  background: #d0d0d0a8;
+  color: gray;
+}
+
+.stars button {
+  height: 40px;
+  width: 40px;
+}
+
+.stars button svg {
+  height: 100%;
+  width: 100%;
+}
+
+.stars button:hover {
+  color: var(--primary);
+}
